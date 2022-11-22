@@ -1,0 +1,122 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/babylonchain/babylon-doc-website/blob/main/docs",
+          "editUrlLocalized": "https://github.com/babylonchain/babylon-doc-website/blob/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Cahyo\\babylon-doc-website\\sidebars.js",
+          "contentPath": "C:\\Users\\Cahyo\\babylon-doc-website\\docs",
+          "contentPathLocalized": "C:\\Users\\Cahyo\\babylon-doc-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "chainbuilding",
+              "id": "chainbuilding",
+              "title": "chainbuilding",
+              "description": "Requirements",
+              "source": "@site/docs/chainbuilding.md",
+              "sourceDirName": ".",
+              "slug": "/chainbuilding",
+              "permalink": "/chainbuilding",
+              "draft": false,
+              "editUrl": null,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Building a Chain using Babylon",
+                "sidebar_position": 1,
+                "pagination_prev": null,
+                "pagination_next": null,
+                "custom_edit_url": null
+              },
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Bitcoin Security for Cosmos and Beyond",
+              "description": "Let us learn about Babylon in this article. 🚀",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "editUrl": null,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "id": "intro",
+                "sidebar_label": "What is Babylon?",
+                "sidebar_position": 0,
+                "pagination_prev": null,
+                "pagination_next": null,
+                "custom_edit_url": null,
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro",
+                "label": "What is Babylon?"
+              },
+              {
+                "type": "doc",
+                "id": "chainbuilding",
+                "label": "Building a Chain using Babylon"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/my-markdown-page",
+        "source": "@site/src/pages/my-markdown-page.md",
+        "title": "My Markdown page",
+        "description": "This is a Markdown page",
+        "frontMatter": {}
+      },
+      {
+        "type": "jsx",
+        "permalink": "/my-react-page",
+        "source": "@site/src/pages/my-react-page.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-lunr-search": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

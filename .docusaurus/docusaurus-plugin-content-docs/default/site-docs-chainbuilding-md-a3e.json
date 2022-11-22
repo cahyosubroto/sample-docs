@@ -1,0 +1,23 @@
+{
+  "unversionedId": "chainbuilding",
+  "id": "chainbuilding",
+  "title": "chainbuilding",
+  "description": "Requirements",
+  "source": "@site/docs/chainbuilding.md",
+  "sourceDirName": ".",
+  "slug": "/chainbuilding",
+  "permalink": "/chainbuilding",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Building a Chain using Babylon",
+    "sidebar_position": 1,
+    "pagination_prev": null,
+    "pagination_next": null,
+    "custom_edit_url": null
+  },
+  "sidebar": "tutorialSidebar"
+}
