@@ -6,13 +6,13 @@
 export default {
   "title": "babylonchain",
   "tagline": "babylonchain documentation",
-  "url": "https://babylonchain.github.io",
+  "url": "https://cahyosubroto.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "babylonchain",
-  "projectName": "babylon-doc-website",
+  "organizationName": "cahyosubroto",
+  "projectName": "sample-docs",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "i18n": {
@@ -30,7 +30,7 @@ export default {
         "docs": {
           "routeBasePath": "/",
           "sidebarPath": "C:\\Users\\Cahyo\\sample-docs\\sidebars.js",
-          "editUrl": "https://github.com/babylonchain/babylon-doc-website/blob/main/"
+          "editUrl": "https://github.com/cahyosubroto/sample-docs"
         },
         "blog": false,
         "theme": {
@@ -57,7 +57,7 @@ export default {
           "label": "Docs"
         },
         {
-          "href": "https://github.com/babylonchain",
+          "href": "https://github.com/cahyosubroto",
           "label": "GitHub",
           "position": "right"
         }
