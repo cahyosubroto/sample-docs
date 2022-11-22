@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'babylonchain',
   tagline: 'babylonchain documentation',
-  url: 'https://babylonchain.github.io/',
+  url: 'https://cahyosubroto.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'babylonchain', // Usually your GitHub org/user name.
-  projectName: 'babylon-doc-website', // Usually your repo name.
+  organizationName: 'cahyosubroto', // Usually your GitHub org/user name.
+  projectName: 'sample-docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -40,7 +40,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/babylonchain/babylon-doc-website/blob/main/',
+            'https://github.com/cahyosubroto/sample-docs',
         },
         blog:false,
         // blog: {
@@ -75,7 +75,7 @@ const config = {
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/babylonchain',
+            href: 'https://github.com/cahyosubroto',
             label: 'GitHub',
             position: 'right',
           },

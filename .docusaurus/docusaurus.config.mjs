@@ -29,18 +29,18 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "C:\\Users\\Cahyo\\babylon-doc-website\\sidebars.js",
+          "sidebarPath": "C:\\Users\\Cahyo\\sample-docs\\sidebars.js",
           "editUrl": "https://github.com/babylonchain/babylon-doc-website/blob/main/"
         },
         "blog": false,
         "theme": {
-          "customCss": "C:\\Users\\Cahyo\\babylon-doc-website\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\Cahyo\\sample-docs\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "plugins": [
-    "C:\\Users\\Cahyo\\babylon-doc-website\\node_modules\\docusaurus-lunr-search\\src\\index.js"
+    "C:\\Users\\Cahyo\\sample-docs\\node_modules\\docusaurus-lunr-search\\src\\index.js"
   ],
   "themeConfig": {
     "navbar": {
