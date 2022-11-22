@@ -10,7 +10,7 @@ slug: /
 
 # Bitcoin Security for Cosmos and Beyond
 
-Let us learn about Babylon in this article. 🚀
+Let's learn about Babylon in this article. 🚀
 
 ## Babylon Overview
 
