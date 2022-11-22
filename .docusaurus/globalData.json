@@ -2,30 +2,30 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1669093124547.json",
-        "lunrIndex": "lunr-index-1669093124547.json"
+        "searchDoc": "search-doc-1669093348936.json",
+        "lunrIndex": "lunr-index-1669093348936.json"
       }
     }
   },
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/sample-docs/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/sample-docs/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "chainbuilding",
-              "path": "/chainbuilding",
+              "path": "/sample-docs/chainbuilding",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/",
+              "path": "/sample-docs/",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -33,7 +33,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/",
+                "path": "/sample-docs/",
                 "label": "What is Babylon?"
               }
             }

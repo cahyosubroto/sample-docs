@@ -12,13 +12,13 @@
       {
         "type": "link",
         "label": "What is Babylon?",
-        "href": "/",
+        "href": "/sample-docs/",
         "docId": "intro"
       },
       {
         "type": "link",
         "label": "Building a Chain using Babylon",
-        "href": "/chainbuilding",
+        "href": "/sample-docs/chainbuilding",
         "docId": "chainbuilding"
       }
     ]

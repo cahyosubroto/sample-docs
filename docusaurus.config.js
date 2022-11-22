@@ -9,7 +9,7 @@ const config = {
   title: 'babylonchain',
   tagline: 'babylonchain documentation',
   url: 'https://cahyosubroto.github.io/',
-  baseUrl: '/sample-docs',
+  baseUrl: '/sample-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

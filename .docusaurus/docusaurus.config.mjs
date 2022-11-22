@@ -7,7 +7,7 @@ export default {
   "title": "babylonchain",
   "tagline": "babylonchain documentation",
   "url": "https://cahyosubroto.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/sample-docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",

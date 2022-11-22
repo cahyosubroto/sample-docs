@@ -3,33 +3,33 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '9cc'),
+    path: '/sample-docs/markdown-page',
+    component: ComponentCreator('/sample-docs/markdown-page', 'e10'),
     exact: true
   },
   {
-    path: '/my-markdown-page',
-    component: ComponentCreator('/my-markdown-page', 'df9'),
+    path: '/sample-docs/my-markdown-page',
+    component: ComponentCreator('/sample-docs/my-markdown-page', 'c33'),
     exact: true
   },
   {
-    path: '/my-react-page',
-    component: ComponentCreator('/my-react-page', 'a78'),
+    path: '/sample-docs/my-react-page',
+    component: ComponentCreator('/sample-docs/my-react-page', '113'),
     exact: true
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '63b'),
+    path: '/sample-docs/',
+    component: ComponentCreator('/sample-docs/', 'b2f'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', '96c'),
+        path: '/sample-docs/',
+        component: ComponentCreator('/sample-docs/', 'c5b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/chainbuilding',
-        component: ComponentCreator('/chainbuilding', 'ae3'),
+        path: '/sample-docs/chainbuilding',
+        component: ComponentCreator('/sample-docs/chainbuilding', '80c'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

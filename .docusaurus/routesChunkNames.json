@@ -1,37 +1,37 @@
 {
-  "/markdown-page-9cc": {
+  "/sample-docs/markdown-page-e10": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "390874fd"
     },
     "content": "393be207"
   },
-  "/my-markdown-page-df9": {
+  "/sample-docs/my-markdown-page-c33": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "390874fd"
     },
     "content": "03181aef"
   },
-  "/my-react-page-a78": {
+  "/sample-docs/my-react-page-113": {
     "__comp": "f8551aab",
     "__context": {
       "plugin": "390874fd"
     },
     "config": "5e9f5e1a"
   },
-  "/-63b": {
+  "/sample-docs/-b2f": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "a9560d3f"
     },
     "versionMetadata": "935f2afb"
   },
-  "/-96c": {
+  "/sample-docs/-c5b": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/chainbuilding-ae3": {
+  "/sample-docs/chainbuilding-80c": {
     "__comp": "17896441",
     "content": "a3e02034"
   }
