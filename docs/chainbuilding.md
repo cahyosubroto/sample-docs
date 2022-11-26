@@ -1,7 +1,7 @@
 ---
 
 sidebar_label: Building a Chain using Babylon
-sidebar_position: 1
+sidebar_position: 2
 pagination_prev: null
 pagination_next: null
 custom_edit_url: null
