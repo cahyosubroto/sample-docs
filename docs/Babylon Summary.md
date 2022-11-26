@@ -20,7 +20,7 @@ candidate when choosing a leader in an election.  For a block to be confirmed, i
 supermajority vote is 2/3, while a majority vote is 51%. Therefore, if
 2/3 of the population votes, we declare that a block is confirmed.
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image5.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image5.png?raw=true)
 
 However, POS, by design, has security vulnerability if there are two forks and both blocks (seen in the figure above,
 circled) have 2/3 of the votes. It will generate the total votes to be greater than 100%, or 133%.
@@ -41,7 +41,7 @@ membership of the voting committee intentionally. In turn, their staked
 tokens will be returned along with their public key, private key, and
 other data, which they can trade freely now.
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image8.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image8.png?raw=true)
 
 
 When a voter withdraws its staked tokens, the voting committee will be
@@ -83,8 +83,8 @@ deep. If the latest block height is 1000, you can be sure that blocks 0
 to 994 will never be forked. Blocks 995, 996, and 997 may be forked, but
 994 and older will not be forked.
 
-![](images/media/image3.png)
-<br/><br/>
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image3.png?raw=true)
+
 
 This means that the checkpoint of any chain that appears after the 6
 blocks deep can be ignored. Suppose there are 6 blocks, as shown in the
@@ -108,12 +108,12 @@ into a fair number of Bitcoin transactions. For 5000 bytes of data, we
 will need at least 60 Bitcoin blocks to carry one checkpoint, which is
 both pricey and abusive usage of Bitcoin, which is not welcomed.
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image1.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image1.png?raw=true)
 
 
 ## 2. Our Solution
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image2.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image2.png?raw=true)
 
 To solve this, we add Babylon in the middle. So the PoS chains will send
 their checkpoints into Babylon, and inside the Babylon block, you will
@@ -122,7 +122,7 @@ blocks to bitcoin. All the transactions, or the Babylon transactions,
 inside the Babylon blocks will have Bitcoin timestamps.
 
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image9.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image9.png?raw=true)
 
 **Babylon transactions** are the checkpoints of the PoS chains. So the
 PoS chains will indirectly get Bitcoin timestamps by using Babylon.
@@ -130,7 +130,7 @@ Babylon must protect itself since it is both a cosmic chain and a PoS
 chain. In front of BTC, Babylon serves as a load balancer, accepting the
 shared massive volume of data from the PoS chain.
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image7.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image7.png?raw=true)
 
 Babylon send checkpoints to Bitcoin and accepts checkpoints from many
 PoS chains. In the future, we want to allow the general public to
@@ -157,7 +157,7 @@ votes Babylon received, it can be aggregated into just one signature,
 which is only about 40 bytes.
 
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image10.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image10.png?raw=true)
 
 
 From the Babylon chain to BTC, we send a **BLS multiSig** and a
@@ -194,7 +194,7 @@ monitoring work. Babylon will reward them through Babylon tokens.
 
 ## 4. Key Design Features
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image4.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image4.png?raw=true)
 
 
 ### - **BLS multiSig**
@@ -259,7 +259,7 @@ you use to write the program, this program will consist of different
 components and modules. They are wired into one program, and each module
 corresponds to a thread or process within the program.
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image11.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image11.png?raw=true)
 
 
 ### 5.1 Epoching Module
@@ -293,7 +293,7 @@ program, we know what the bitcoin chain looks like or how long it is.
 ## 6. Vigilante Master Monitor
 
 
-![Alt text](../../../../../c:/Users/Cahyo/sample-docs/image/image6.png)
+![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image6.png?raw=true)
 
 In Vigilante Master Monitor, the BTC light client will act as the master
 monitor that will track the correctness of a BTC header oracle because

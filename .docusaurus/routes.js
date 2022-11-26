@@ -19,8 +19,14 @@ export default [
   },
   {
     path: '/sample-docs/',
-    component: ComponentCreator('/sample-docs/', 'b2f'),
+    component: ComponentCreator('/sample-docs/', 'a72'),
     routes: [
+      {
+        path: '/sample-docs/',
+        component: ComponentCreator('/sample-docs/', '9c2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/sample-docs/',
         component: ComponentCreator('/sample-docs/', 'c5b'),

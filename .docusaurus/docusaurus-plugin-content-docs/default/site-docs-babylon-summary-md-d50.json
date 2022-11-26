@@ -1,0 +1,25 @@
+{
+  "unversionedId": "babylon-solution",
+  "id": "babylon-solution",
+  "title": "**Problem Statements**",
+  "description": "Underlying Security Issues within Proof-of-Stake",
+  "source": "@site/docs/Babylon Summary.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/sample-docs/",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "babylon-solution",
+    "sidebar_label": "Babylon's Solutions",
+    "sidebar_position": 1,
+    "pagination_prev": null,
+    "pagination_next": null,
+    "custom_edit_url": null,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar"
+}

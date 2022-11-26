@@ -17,6 +17,12 @@
       },
       {
         "type": "link",
+        "label": "Babylon's Solutions",
+        "href": "/sample-docs/",
+        "docId": "babylon-solution"
+      },
+      {
+        "type": "link",
         "label": "Building a Chain using Babylon",
         "href": "/sample-docs/chainbuilding",
         "docId": "chainbuilding"
@@ -24,6 +30,12 @@
     ]
   },
   "docs": {
+    "babylon-solution": {
+      "id": "babylon-solution",
+      "title": "**Problem Statements**",
+      "description": "Underlying Security Issues within Proof-of-Stake",
+      "sidebar": "tutorialSidebar"
+    },
     "chainbuilding": {
       "id": "chainbuilding",
       "title": "chainbuilding",
