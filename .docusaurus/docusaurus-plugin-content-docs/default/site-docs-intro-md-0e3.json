@@ -5,21 +5,19 @@
   "description": "Let's learn about Babylon in this article. 🚀",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
-  "slug": "/",
-  "permalink": "/sample-docs/",
+  "slug": "/intro",
+  "permalink": "/sample-docs/intro",
   "draft": false,
   "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
   "frontMatter": {
-    "id": "intro",
     "sidebar_label": "What is Babylon?",
     "sidebar_position": 0,
     "pagination_prev": null,
     "pagination_next": null,
-    "custom_edit_url": null,
-    "slug": "/"
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar"
 }

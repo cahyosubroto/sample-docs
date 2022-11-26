@@ -2,8 +2,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1669466056595.json",
-        "lunrIndex": "lunr-index-1669466056595.json"
+        "searchDoc": "search-doc-1669466533432.json",
+        "lunrIndex": "lunr-index-1669466533432.json"
       }
     }
   },
@@ -16,11 +16,11 @@
           "label": "Next",
           "isLast": true,
           "path": "/sample-docs/",
-          "mainDocId": "babylon-solution",
+          "mainDocId": "intro",
           "docs": [
             {
-              "id": "babylon-solution",
-              "path": "/sample-docs/",
+              "id": "Babylon Summary",
+              "path": "/sample-docs/Babylon Summary",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -30,7 +30,7 @@
             },
             {
               "id": "intro",
-              "path": "/sample-docs/",
+              "path": "/sample-docs/intro",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -38,7 +38,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/sample-docs/",
+                "path": "/sample-docs/intro",
                 "label": "What is Babylon?"
               }
             }

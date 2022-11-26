@@ -12,14 +12,14 @@
       {
         "type": "link",
         "label": "What is Babylon?",
-        "href": "/sample-docs/",
+        "href": "/sample-docs/intro",
         "docId": "intro"
       },
       {
         "type": "link",
         "label": "Babylon's Solutions",
-        "href": "/sample-docs/",
-        "docId": "babylon-solution"
+        "href": "/sample-docs/Babylon Summary",
+        "docId": "Babylon Summary"
       },
       {
         "type": "link",
@@ -30,8 +30,8 @@
     ]
   },
   "docs": {
-    "babylon-solution": {
-      "id": "babylon-solution",
+    "Babylon Summary": {
+      "id": "Babylon Summary",
       "title": "**Problem Statements**",
       "description": "Underlying Security Issues within Proof-of-Stake",
       "sidebar": "tutorialSidebar"
