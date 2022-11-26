@@ -253,7 +253,7 @@ timestamps. If we send a timestamp every 5 minutes, our users will expect to rec
 
 
 
-### - On-chain BTC oracles
+### - On-chain BTC oracle
 
 ### - No change to Tendermint
 
