@@ -333,7 +333,7 @@ information is provided by the reporter, which we don\'t trust. So we
 need a monitoring program to ensure that what the reporter told us about
 BTC is the same as the real-world BTC.
 
-## 7. The Cost
+## 6. Cost
 
 Each checkpoint will cost us about \$2.00 per transaction. No matter how
 many customers use Babylon, our cost will always be \$2.00 per transaction.
