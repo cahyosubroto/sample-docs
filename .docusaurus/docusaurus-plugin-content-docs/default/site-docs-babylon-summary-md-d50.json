@@ -1,7 +1,7 @@
 {
   "unversionedId": "Babylon Summary",
   "id": "Babylon Summary",
-  "title": "**Problem Statements**",
+  "title": "**Babylon's Solutions**",
   "description": "Underlying Security Issues within Proof-of-Stake",
   "source": "@site/docs/Babylon Summary.md",
   "sourceDirName": ".",
@@ -13,7 +13,7 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_label": "Babylon's Solutions",
+    "sidebar_label": "Babylon's solutions",
     "sidebar_position": 1,
     "pagination_prev": null,
     "pagination_next": null,

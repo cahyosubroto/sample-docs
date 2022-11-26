@@ -17,7 +17,7 @@
       },
       {
         "type": "link",
-        "label": "Babylon's Solutions",
+        "label": "Babylon's solutions",
         "href": "/sample-docs/Babylon Summary",
         "docId": "Babylon Summary"
       },
@@ -32,7 +32,7 @@
   "docs": {
     "Babylon Summary": {
       "id": "Babylon Summary",
-      "title": "**Problem Statements**",
+      "title": "**Babylon's Solutions**",
       "description": "Underlying Security Issues within Proof-of-Stake",
       "sidebar": "tutorialSidebar"
     },

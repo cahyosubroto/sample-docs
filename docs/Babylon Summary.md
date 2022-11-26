@@ -9,7 +9,7 @@ custom_edit_url: null
 
 ---
 
-# **Babylon's Solutions**
+# Babylon's Solutions
 
 ## Underlying Security Issues within Proof-of-Stake
 
