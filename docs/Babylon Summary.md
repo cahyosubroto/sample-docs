@@ -1,11 +1,11 @@
 ---
-id: babylon-solution
+
 sidebar_label: Babylon's Solutions
 sidebar_position: 1
 pagination_prev: null
 pagination_next: null
 custom_edit_url: null
-slug: /
+
 ---
 
 # **Problem Statements**
@@ -108,12 +108,18 @@ into a fair number of Bitcoin transactions. For 5000 bytes of data, we
 will need at least 60 Bitcoin blocks to carry one checkpoint, which is
 both pricey and abusive usage of Bitcoin, which is not welcomed.
 
-![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image1.png?raw=true)
+<p align="center">
+<img src="https://github.com/cahyosubroto/sample-docs/blob/main/image/image1.png?raw=true" alt="drawing" width="600"/>
+</p>
+
 
 
 ## 2. Our Solution
 
-![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image2.png?raw=true)
+<p align="center">
+<img src="https://github.com/cahyosubroto/sample-docs/blob/main/image/image2.png?raw=true" alt="drawing" width="600"/>
+</p>
+
 
 To solve this, we add Babylon in the middle. So the PoS chains will send
 their checkpoints into Babylon, and inside the Babylon block, you will
@@ -156,8 +162,9 @@ merged into and used for verification. That means no matter how many
 votes Babylon received, it can be aggregated into just one signature,
 which is only about 40 bytes.
 
-
-![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image10.png?raw=true)
+<p align="center">
+<img src="https://github.com/cahyosubroto/sample-docs/blob/main/image/image10.png?raw=true" alt="drawing" width="600"/>
+</p>
 
 
 From the Babylon chain to BTC, we send a **BLS multiSig** and a
@@ -290,7 +297,7 @@ that holds this is called an operator transaction.
 BTC Header Oracle logs the BTC header chain so that within the Babylon
 program, we know what the bitcoin chain looks like or how long it is.
 
-## 6. Vigilante Master Monitor
+### 5.5. Vigilante Master Monitor
 
 
 ![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image6.png?raw=true)

@@ -1,11 +1,11 @@
 ---
-id: intro
+
 sidebar_label: What is Babylon?
 sidebar_position: 0
 pagination_prev: null
 pagination_next: null
 custom_edit_url: null
-slug: /
+
 ---
 
 # Bitcoin Security for Cosmos and Beyond
