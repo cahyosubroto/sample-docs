@@ -19,8 +19,14 @@ export default [
   },
   {
     path: '/sample-docs/',
-    component: ComponentCreator('/sample-docs/', 'fd3'),
+    component: ComponentCreator('/sample-docs/', '229'),
     routes: [
+      {
+        path: '/sample-docs/',
+        component: ComponentCreator('/sample-docs/', 'c5b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/sample-docs/Babylon Summary',
         component: ComponentCreator('/sample-docs/Babylon Summary', '22c'),
@@ -30,12 +36,6 @@ export default [
       {
         path: '/sample-docs/chainbuilding',
         component: ComponentCreator('/sample-docs/chainbuilding', '80c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/sample-docs/intro',
-        component: ComponentCreator('/sample-docs/intro', '6cf'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

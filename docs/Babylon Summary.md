@@ -1,14 +1,15 @@
 ---
 
-sidebar_label: Babylon's Solutions
+sidebar_label: Babylon's solutions
 sidebar_position: 1
 pagination_prev: null
 pagination_next: null
 custom_edit_url: null
 
+
 ---
 
-# **Problem Statements**
+# **Babylon's Solutions**
 
 ## Underlying Security Issues within Proof-of-Stake
 
@@ -204,11 +205,11 @@ monitoring work. Babylon will reward them through Babylon tokens.
 ![Alt text](https://github.com/cahyosubroto/sample-docs/blob/main/image/image4.png?raw=true)
 
 
-### - **BLS multiSig**
+### - BLS multiSig
 
 Our BLS multiSig reduces the checkpoint size which allows our users to use our solution to secure their chains.
 
-### - **Epoched validator set rotation**
+### - Epoched validator set rotation
 
 In a standard PoS blockchain, you can subscribe as a staker to lock
 your token and gain voting power at any time, and you can resign to
@@ -252,9 +253,9 @@ timestamps. If we send a timestamp every 5 minutes, our users will expect to rec
 
 
 
-### - **On-chain BTC oracles**
+### - On-chain BTC oracles
 
-### - **No change to Tendermint**
+### - No change to Tendermint
 
 <br/>
 

@@ -2,8 +2,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1669466533432.json",
-        "lunrIndex": "lunr-index-1669466533432.json"
+        "searchDoc": "search-doc-1669466648765.json",
+        "lunrIndex": "lunr-index-1669466648765.json"
       }
     }
   },
@@ -30,7 +30,7 @@
             },
             {
               "id": "intro",
-              "path": "/sample-docs/intro",
+              "path": "/sample-docs/",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -38,7 +38,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/sample-docs/intro",
+                "path": "/sample-docs/",
                 "label": "What is Babylon?"
               }
             }
